@@ -1,0 +1,18 @@
+ref
+14003
+ref_end
+correctAnswer
+3
+correctAnswer_end
+explain
+בדיקת הסבר שאלה 2 
+explain_end
+support
+בדיקת סימוכין שאלה 2
+support_end
+seif
+בדיקת סעיף שאלה 2
+seif_end
+tatSeif
+בדיקת תת סעיף שאלה 2
+tatSeif_end
