@@ -1,0 +1,16 @@
+Question
+מהו הגובה המרבי המותר להתקנת אמצעי הפעלה ידניים, כולל נתיכים, בלוח חשמל? 
+ 
+Question_end
+Answer1
+1. 1.80 מטר מעל הרצפה. 
+Answer1_end
+Answer2
+2. 2.20 מטר מעל הרצפה. 
+Answer2_end
+Answer3
+3. 2.00 מטר מעל הרצפה. 
+Answer3_end
+Answer4
+4. 2.50 מטר מעל הרצפה. 
+Answer4_end

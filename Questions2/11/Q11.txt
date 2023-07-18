@@ -1,0 +1,16 @@
+Question
+באיזו תדירות נדרש לבדוק מפסק מגן (על ידי לחיצה על לחיץ הבדיקה) באתר בנייה? 
+ 
+Question_end
+Answer1
+1. .אחת לשבוע 
+Answer1_end
+Answer2
+2. .אחת לחודש 
+Answer2_end
+Answer3
+3. .אחת לרבעון 
+Answer3_end
+Answer4
+4. .אין צורך לבדוק 
+Answer4_end

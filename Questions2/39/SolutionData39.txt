@@ -1,0 +1,18 @@
+ref
+08017
+ref_end
+correctAnswer
+2
+correctAnswer_end
+explain
+שטח חתך מוליך איפוס לפחות כשטח חתך מוליך האפס הגדול ביותר היוצא מהפס
+explain_end
+support
+הארקות ואמצעי הגנה בפני חישמול
+support_end
+seif
+40
+seif_end
+tatSeif
+א
+tatSeif_end

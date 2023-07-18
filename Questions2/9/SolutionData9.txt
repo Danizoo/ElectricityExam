@@ -1,0 +1,18 @@
+ref
+14014
+ref_end
+correctAnswer
+3
+correctAnswer_end
+explain
+יש להכפיל את התוצאה ב2 עבור שני מוליכי המעגל
+explain_end
+support
+
+support_end
+seif
+
+seif_end
+tatSeif
+
+tatSeif_end

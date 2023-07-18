@@ -1,0 +1,18 @@
+ref
+08012
+ref_end
+correctAnswer
+3
+correctAnswer_end
+explain
+
+explain_end
+support
+מתקני חשמל בבריכה
+support_end
+seif
+3
+seif_end
+tatSeif
+ג
+tatSeif_end

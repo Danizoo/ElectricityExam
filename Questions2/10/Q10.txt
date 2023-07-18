@@ -1,0 +1,16 @@
+Question
+באיזה פתיל יש להשתמש במעגל סופי באתר בנייה? 
+ 
+Question_end
+Answer1
+1. .כבל חזק עם בידוד כפול 
+Answer1_end
+Answer2
+2.  כבלמסוג  N2XY. 
+Answer2_end
+Answer3
+3.  כבל מסוג HO7RN -F  .או זהה באיכותו 
+Answer3_end
+Answer4
+4. .כבל חסין אש 
+Answer4_end

@@ -1,0 +1,18 @@
+ref
+14038
+ref_end
+correctAnswer
+2
+correctAnswer_end
+explain
+
+explain_end
+support
+התקנת לוחות
+support_end
+seif
+11
+seif_end
+tatSeif
+2
+tatSeif_end

@@ -1,0 +1,18 @@
+ref
+08015
+ref_end
+correctAnswer
+2
+correctAnswer_end
+explain
+
+explain_end
+support
+מתקן חשמל ארעי באתר בנייה
+support_end
+seif
+
+seif_end
+tatSeif
+
+tatSeif_end

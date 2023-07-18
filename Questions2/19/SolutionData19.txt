@@ -1,0 +1,18 @@
+ref
+14037
+ref_end
+correctAnswer
+2
+correctAnswer_end
+explain
+
+explain_end
+support
+מתקן חשמלי ציבורי בבניין רב קומות
+support_end
+seif
+6
+seif_end
+tatSeif
+1
+tatSeif_end

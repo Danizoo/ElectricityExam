@@ -1,0 +1,18 @@
+ref
+08019
+ref_end
+correctAnswer
+2
+correctAnswer_end
+explain
+במידה וכותב השאלה התכוון להראות שאין הארקה כלל לגומחת המונים אז תשובה 2- או תשובה 1 אם הארקה טובה בלוח ראשי
+explain_end
+support
+
+support_end
+seif
+
+seif_end
+tatSeif
+
+tatSeif_end

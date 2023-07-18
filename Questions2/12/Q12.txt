@@ -1,0 +1,16 @@
+Question
+ האם ניתן להשתמש בשקעים לפי ת"י32  חלק1.1  וחלק2.1, באתר בניה? 
+ 
+Question_end
+Answer1
+1. .אסור בכל מקרה 
+Answer1_end
+Answer2
+2. .מותר 
+Answer2_end
+Answer3
+3. .לא מומלץ 
+Answer3_end
+Answer4
+4. .אסור באתר חיצוני 
+Answer4_end

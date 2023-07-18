@@ -1,0 +1,16 @@
+Question
+איזו מבין האפשרויות הבאות יכולה לשמש כהגנה נוספת הנדרשת לבתי תקע במתקן ארעי? 
+ 
+Question_end
+Answer1
+1. .מפסק מגן 
+Answer1_end
+Answer2
+2. .מתח נמוך מאוד 
+Answer2_end
+Answer3
+3. .הפרד מגן 
+Answer3_end
+Answer4
+4. .כל התשובות נכונות 
+Answer4_end

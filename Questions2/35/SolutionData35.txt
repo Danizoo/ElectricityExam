@@ -1,0 +1,18 @@
+ref
+08013
+ref_end
+correctAnswer
+1
+correctAnswer_end
+explain
+ועדת פירושים 17-03
+explain_end
+support
+מתקן חשמל ארעי באתר בנייה
+support_end
+seif
+
+seif_end
+tatSeif
+
+tatSeif_end

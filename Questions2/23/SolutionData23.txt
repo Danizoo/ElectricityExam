@@ -1,0 +1,18 @@
+ref
+08002
+ref_end
+correctAnswer
+4
+correctAnswer_end
+explain
+הפתרון מוטעה כי הקצר ממשיך במורד הזרם למבנה אחר אך אין פתרון טוב יותר בתשובות
+explain_end
+support
+
+support_end
+seif
+
+seif_end
+tatSeif
+
+tatSeif_end

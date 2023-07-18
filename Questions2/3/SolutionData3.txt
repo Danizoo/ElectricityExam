@@ -1,0 +1,18 @@
+ref
+14004
+ref_end
+correctAnswer
+2
+correctAnswer_end
+explain
+
+explain_end
+support
+הארקות ואמצעי הגנה בפני חישמול
+support_end
+seif
+7
+seif_end
+tatSeif
+ב
+tatSeif_end

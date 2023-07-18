@@ -1,0 +1,18 @@
+Question
+נתון שנאי: 
+VAk S=630 ,=6%kU. 
+חשב את זרם הקצר המתפתח בשנאי בצד המתח הנמוך: 
+ 
+Question_end
+Answer1
+1. kA9.1 
+Answer1_end
+Answer2
+2. kA 15.16 
+Answer2_end
+Answer3
+3. 8.75 kA  
+Answer3_end
+Answer4
+4. 10.5 kA  
+Answer4_end

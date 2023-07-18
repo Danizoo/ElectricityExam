@@ -1,0 +1,16 @@
+Question
+מהו הגובה המינימלי של חדר שנאים בבניין רב קומות ? 
+ 
+Question_end
+Answer1
+1. 2.4 .מטר 
+Answer1_end
+Answer2
+2. 2 .מטר 
+Answer2_end
+Answer3
+3. 3 .מטר 
+Answer3_end
+Answer4
+4. .תלוי בגודל השנאי 
+Answer4_end
